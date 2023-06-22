@@ -1,0 +1,148 @@
+/* UTILITY CLASS CSS*/
+
+/* borders */
+.border_green {
+    border: 2px solid green;
+}
+
+.border_violet {
+    border: 2px solid violet;
+}
+
+/* backgrounds */
+.bg_red {
+    background-color: red;
+}
+
+.bg_dark {
+    background-color: rgb(15, 14, 23);
+}
+
+/* text colors */
+.text_white {
+    color: white;
+}
+
+.text_purple {
+    color: rgb(210, 14, 210)
+}
+
+.text_orange {
+    color: orange;
+}
+
+.text_lightblue {
+    color: rgb(32, 185, 212)
+}
+
+/* text alignment */
+.text_center {
+    text-align: center;
+}
+
+.fw_600 {
+    font-weight: 600;
+}
+
+/* heights */
+.h_100 {
+    height: 100px;
+}
+
+.h_50 {
+    height: 50px;
+}
+
+/* widths */
+.min_w_200 {
+    min-width: 200px;
+}
+
+/* paddings */
+.p_10 {
+    padding: 10px;
+}
+
+.p_20 {
+    padding: 20px;
+}
+
+/* margins */
+.mt_20 {
+    margin-top: 20px;
+}
+
+.mb_20 {
+    margin-bottom: 20px;
+}
+
+.ml_10 {
+    margin-left: 10px;
+}
+
+.mr_10 {
+    margin-right: 10px;
+}
+
+.my_10 {
+    margin: 10px 0px;
+}
+
+.my_5 {
+    margin: 5px 0px;
+}
+
+/* FLEX */
+.flex {
+    display: flex;
+}
+
+.flex_space_around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex_space_between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex_space_evenly {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.basis_30_f {
+    flex-basis: 30%;
+}
+
+.grow_1_f {
+    flex-grow: 1;
+}
+
+.space_bet_f {
+    justify-content: space-between;
+}
+
+.wrap_f {
+    flex-wrap: wrap;
+}
+
+.align_center_f {
+    align-items: center;
+}
+
+.gap_f_10 {
+    gap: 10px;
+}
+
+.c_gap_f_10 {
+    row-gap: 20px;
+}
+
+/* lists */
+
+.no_bullets {
+    list-style-type: none;
+}
