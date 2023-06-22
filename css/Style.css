@@ -38,7 +38,7 @@ p {
 
 .card {
     width: 30%;
-    min-height: 700px;
+    min-height: 640px;
     margin-top: 160px;
 
 }
@@ -72,4 +72,8 @@ p {
     display: flex;
     gap: 10px 20px;
     column-gap: 20px;
+}
+
+.row_gap {
+    row-gap: 60px;
 }
