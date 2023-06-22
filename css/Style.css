@@ -26,3 +26,22 @@ p {
 .flex_center {
     justify-content: center;
 }
+
+.pl_60 {
+    padding-left: 60px;
+}
+
+.img {
+    max-width: 100%;
+}
+
+.card {
+    width: 30%;
+    min-height: 700px;
+    margin-top: 160px;
+
+}
+
+.text_underline {
+    text-decoration: line-through;
+}

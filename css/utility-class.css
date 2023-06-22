@@ -39,6 +39,15 @@
     color: rgb(32, 185, 212)
 }
 
+.text_black {
+    color: black
+}
+
+.text_red {
+    color: red;
+    font: bold;
+}
+
 /* text alignment */
 .text_center {
     text-align: center;
@@ -55,6 +64,10 @@
 
 .h_30 {
     height: 30px;
+}
+
+.h_10 {
+    height: 10px;
 }
 
 /* widths */
@@ -76,20 +89,20 @@
 }
 
 /* margins */
-.mt_20 {
-    margin-top: 20px;
+.mt_40 {
+    margin-top: 40px;
 }
 
 .mb_20 {
     margin-bottom: 20px;
 }
 
-.ml_10 {
-    margin-left: 10px;
+.ml_20 {
+    margin-left: 20px;
 }
 
-.mr_10 {
-    margin-right: 10px;
+.mr_30 {
+    margin-right: 30px;
 }
 
 .my_10 {
