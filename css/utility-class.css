@@ -18,6 +18,10 @@
     background-color: rgb(15, 14, 23);
 }
 
+.bg_orange {
+    background-color: rgb(255, 105, 0);
+}
+
 /* text colors */
 .text_white {
     color: white;
@@ -45,12 +49,12 @@
 }
 
 /* heights */
-.h_100 {
-    height: 100px;
+.h_65 {
+    height: 65px;
 }
 
-.h_50 {
-    height: 50px;
+.h_30 {
+    height: 30px;
 }
 
 /* widths */
@@ -65,6 +69,10 @@
 
 .p_20 {
     padding: 20px;
+}
+
+.p_5 {
+    padding: 5px;
 }
 
 /* margins */
@@ -139,6 +147,10 @@
 
 .c_gap_f_10 {
     row-gap: 20px;
+}
+
+.row_reverse {
+    flex-direction: row-reverse;
 }
 
 /* lists */

@@ -2,4 +2,27 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Signika', sans-serif;
+}
+
+.main_container {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+p {
+    display: inline;
+    color: white;
+    padding: 5px;
+
+}
+
+.align_self {
+    align-items: flex-start;
+}
+
+.flex_center {
+    justify-content: center;
 }
