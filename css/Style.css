@@ -6,10 +6,10 @@
 }
 
 .main_container {
-    max-width: 1400px;
+    max-width: 1300px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: auto;
+    margin-top: auto;
 }
 
 
@@ -62,7 +62,7 @@ p {
     padding-bottom: 10px;
 }
 
-mt_20 {
+.mt_20 {
     margin-top: 0px;
     padding-top: 0;
     padding-bottom: 10px;
@@ -71,4 +71,5 @@ mt_20 {
 .flex_gap {
     display: flex;
     gap: 10px 20px;
+    column-gap: 20px;
 }
