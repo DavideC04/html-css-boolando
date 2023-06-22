@@ -7,9 +7,9 @@
 
 .main_container {
     max-width: 1400px;
-    margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: auto;
 }
 
 
@@ -49,4 +49,26 @@ p {
 
 .border {
     border: 1px solid lightgray;
+}
+
+.min_h {
+    min-height: 65px;
+}
+
+.text_icon {
+    color: white;
+    font-size: 0.9rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+mt_20 {
+    margin-top: 0px;
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+
+.flex_gap {
+    display: flex;
+    gap: 10px 20px;
 }
