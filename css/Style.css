@@ -7,6 +7,7 @@
 
 .main_container {
     max-width: 1400px;
+    margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -27,8 +28,8 @@ p {
     justify-content: center;
 }
 
-.pl_60 {
-    padding-left: 60px;
+.pl_4 {
+    padding-left: 4px;
 }
 
 .img {
@@ -44,4 +45,8 @@ p {
 
 .text_underline {
     text-decoration: line-through;
+}
+
+.border {
+    border: 1px solid lightgray;
 }
